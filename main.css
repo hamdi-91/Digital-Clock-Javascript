@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+}
+
+#clock{
+    font-family: 'Orbitron' ;
+    font-size:4rem;
+    color: #32cd32;
+}
+h2{
+    color: white;
+}
